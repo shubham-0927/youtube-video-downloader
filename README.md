@@ -7,5 +7,6 @@ a program to download a youtube video only by giving link to it<br>
 4. Give file name to your video<br>
 5. If it shows task complete then congo! your youtube is downloaded<br>
 
-[^1]:>[licence](/LICENSE) 
-[^2]feel free to make any changes in the code
+feel free to make any changes in the code
+
+>[licence](/LICENSE)
